@@ -1,0 +1,14 @@
+main{
+  margin: 20px;
+  text-align: center;
+  
+  
+}
+
+button {
+  background-color: rgb(206, 127, 93);
+  color: #000000;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
